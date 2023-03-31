@@ -1,6 +1,6 @@
 Name:		fonts-ttf-gelasio
 Version:	1.0
-Release:	1
+Release:	2
 Summary:	Gelasio ttf fonts
 License:	OFL-1.1 License
 Group:		System/Fonts/True type
